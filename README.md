@@ -20,7 +20,6 @@ In my home lab, I used the virtualization software “VirtualBox” as our hyper
 **Tools Used**
 
 - Security Information and Event Management (SIEM) system Splunk for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 - Port scanning tools (such as nmap).
 - Payload generation tool (such as msfvenom).
