@@ -24,5 +24,5 @@ In my home lab, I used the virtualization software “VirtualBox” as our hyper
 - Port scanning tools (such as nmap).
 - Payload generation tool (such as msfvenom).
 
-**Documentation:**
+**Steps**
 <a href="https://political-block-6b8.notion.site/Home-Lab-19757d183bb5802e987ac43841ee08fb">Write up with screenshots</a>
