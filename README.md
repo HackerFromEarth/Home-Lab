@@ -25,4 +25,4 @@ In my home lab, I used the virtualization software “VirtualBox” as our hyper
 - Payload generation tool (such as msfvenom).
 
 **Steps**
-<a href="https://political-block-6b8.notion.site/Home-Lab-19757d183bb5802e987ac43841ee08fb">Write up with screenshots</a>
+<a href="https://political-block-6b8.notion.site/Home-Lab-19757d183bb5802e987ac43841ee08fb">Screenshots</a>
