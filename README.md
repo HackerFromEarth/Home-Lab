@@ -1,6 +1,6 @@
 # Home Lab
 
-<a href="https://political-block-6b8.notion.site/Home-Lab-19757d183bb5802e987ac43841ee08fb">Write Up</a>
+<a href="https://political-block-6b8.notion.site/Home-Lab-19757d183bb5802e987ac43841ee08fb">Write Up with Steps</a>
 
 **Objective**
 
