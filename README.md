@@ -1,5 +1,7 @@
 # Home Lab
 
+<a href="https://political-block-6b8.notion.site/Home-Lab-19757d183bb5802e987ac43841ee08fb">Write Up</a>
+
 **Objective**
 
 The Home Lab project aimed to establish a controlled environment for learning new tools and malware simulation all the while detecting this cyber attack. The primary focus was to create this sandbox environment to test out tools and investigate malware while having the freedom to break things without consequence. This hands-on experience was designed to deepen understanding of network security, attack patterns, techniques, and a deeper understanding of how systems and networks function.
@@ -23,6 +25,3 @@ In my home lab, I used the virtualization software “VirtualBox” as our hyper
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 - Port scanning tools (such as nmap).
 - Payload generation tool (such as msfvenom).
-
-**Steps**
-<a href="https://political-block-6b8.notion.site/Home-Lab-19757d183bb5802e987ac43841ee08fb">Screenshots</a>
